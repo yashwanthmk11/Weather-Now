@@ -6,7 +6,7 @@ A beautifully designed, mobile-responsive weather application built with React. 
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live app]([https://your-deployed-url.com](https://weather-now-indol-eight.vercel.app/)
+👉 [Click here to view the live app]([https://your-deployed-url.com](Weather Now[https://weather-now-indol-eight.vercel.app/])
 
 ---
 
