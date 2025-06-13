@@ -12,12 +12,25 @@ A beautifully designed, mobile-responsive weather application built with React. 
 
 ## 📸 Screenshots
 
-### 🖥️ Desktop View![image](https://github.com/user-attachments/assets/716b9106-7df7-423c-9b34-277aa36b4008)
+### 🖥️ Desktop View!
 
-![Weather App Desktop](./screenshots/desktop.png)
+
+[image](https://github.com/user-attachments/assets/716b9106-7df7-423c-9b34-277aa36b4008)
+
+
+[image](https://github.com/user-attachments/assets/635342a5-d960-4b65-8657-5685f27801b2)
+
+![Weather App Desktop]
+
 
 ### 📱 Mobile View
-![Weather App Mobile](./screenshots/mobile.png)
+
+![WhatsApp Image 2025-06-13 at 15 24 30_8cdb280b](https://github.com/user-attachments/assets/4a97257d-24e1-42ae-a335-95d8c6500210)
+
+![WhatsApp Image 2025-06-13 at 15 24 30_5a7275cf](https://github.com/user-attachments/assets/a7c89a38-667b-4fae-8d3a-4e3ad9f42f0d)
+
+
+![Weather App Mobile]
 
 ---
 
