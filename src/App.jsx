@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import WeatherCard from './components/WeatherCard';
 import './App.css';
+import Footer from './components/Footer'; 
 
 const API_KEY = 'da8bfa658c6c733cc6da1d65678dde56'; // Replace with real key
 
@@ -40,6 +41,8 @@ function App() {
         <button onClick={fetchWeather}>Search</button>
       </div>
       {weather && <WeatherCard weather={weather} />}
+
+      <Footer/>
     </div>
   );
 }
